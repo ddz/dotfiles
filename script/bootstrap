@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+# TODO: install nix if it's not found, then home-manager, then do a home-manager switch
